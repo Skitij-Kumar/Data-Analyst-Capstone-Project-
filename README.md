@@ -5,15 +5,35 @@ In this project we will asuume that, we have been hired as a by a global IT and 
 
 ## Project Tasks
 ### 1st Task: Collecting Data
-Our first task involves collecting the top programming skills that are most in demand from various sources:
+Our first task involves collecting the top programming skills that are most in demand from various sources like job postings, training portals, surveys:
 - Using APIs
 - Using Webscraping
 - Exploring the collected data
 ### 2nd Task: Data Wrangling
 In second task we will clean up the data set and make it ready for data analysis by:
-- Finding Duplicates
-- Removing Duplicates
-- Finding Missing Values
-- Imputing Missing Values
-- Normalizing Data
+- Identify duplicate rows in the data frame.
+- Remove duplicate rows from the dataframe.
+- Find the number of missing values for all columns.
+- Find the value counts for the column "Employment".
+- Normalize the data using two existing columns.  
+### 3rd Task: Data Analysis
+In third task we will analyze the data and get more familiar with the data set by:
+- Plot a distribution curve, and histogram.
+- Find the median, and outliers of particular columns.
+- Compute the Inter Quartile Range.
+- Find out the upper and lower bounds, and find correlations between numerical columns.
+- Create a new dataframe.
+### 4th Task: Vuisualizing data
+In fourth task we will visualize the Developer Survey data set by:
+- Create a histogram to show the distribution of data.
+- Create different plots such as a scatter, bubble or boxplot.
+- Create a pie chart, bar chart, and stacked chart to show medians and counts.
+### 5th Task: Building Dashboards
+In fifth task we will create dashboards on Survey Data using IBM Cognos Analytics on:
+- Current technology usage
+- Future technology trend
+- Demographics
+### 6th Task: Presenting the findings
+
+
 
