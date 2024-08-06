@@ -34,6 +34,6 @@ In fifth task we will create dashboards on Survey Data using IBM Cognos Analytic
 - Future technology trend
 - Demographics
 ### 6th Task: Presenting the findings
-
+Creating a presentation based on the analysis of your data in the previous tasks, by developing a story of your analysis that should be compelling and easy to understand.
 
 
