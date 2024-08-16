@@ -1,7 +1,7 @@
 # Data-Analyst-Capstone-Project-
 
 ## Introduction
-In this project we will assume that, we have been hired as a by a global IT and business consulting services firm that is known for their expertise in IT solutions and their team of highly experienced IT consultants. In order to keep pace with changing technologies and remain competitive, our organization regularly analyzes data to help identify future skill requirements.
+In this project I have assumed that, I have been hired as a Data Analyst by a global IT and business consulting services firm that is known for their expertise in IT solutions and their team of highly experienced IT consultants. In order to keep pace with changing technologies and remain competitive, our organization regularly analyzes data to help identify future skill requirements.
 
 We will perform the below tasks in jupyter notebook.
 
