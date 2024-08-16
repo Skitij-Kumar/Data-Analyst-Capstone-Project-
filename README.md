@@ -23,7 +23,7 @@ In third task we will analyze the data and get more familiar with the data set b
 - Compute the Inter Quartile Range.
 - Find out the upper and lower bounds, and find correlations between numerical columns.
 - Create a new dataframe.
-### 4th Task: Vuisualizing data
+### 4th Task: Visualizing data
 In fourth task we will visualize the Developer Survey data set by:
 - Create a histogram to show the distribution of data.
 - Create different plots such as a scatter, bubble or boxplot.
