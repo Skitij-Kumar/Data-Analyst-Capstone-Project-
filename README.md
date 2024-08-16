@@ -7,7 +7,7 @@ We will perform the below tasks in jupyter notebook.
 
 ## Project Tasks
 ### 1st Task: Collecting Data
-Our first task involves collecting the top programming skills that are most in demand from various sources like job postings, training portals, surveys:
+Our first task involves collecting the top programming skills that are most in demand from various sources like job postings, training portals, surveys in formats like csv files, excel sheets, and databases:
 - Using APIs
 - Using Webscraping
 - Exploring the collected data
